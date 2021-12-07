@@ -1,0 +1,43 @@
+.container {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  font-family: "Nunito", sans-serif;
+}
+
+.navcolor {
+  background-color: #2f4f4f;
+}
+
+.navtext {
+  color: white;
+
+  font-size: 120%;
+}
+
+.create-button {
+  padding-left: 75%;
+  font-family: "Nunito", sans-serif;
+}
+
+span {
+  color: white;
+}
+
+h6 {
+  text-align: center;
+  padding-top: 10%;
+}
+
+.link {
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+}
+
+.link:hover {
+  color: white;
+}
+
+.inputstyle {
+  width: 100%;
+}

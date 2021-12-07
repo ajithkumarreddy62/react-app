@@ -1,0 +1,36 @@
+.container {
+  text-align: left;
+  align-items: center;
+  padding-top: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: "Nunito", sans-serif;
+}
+
+h3 {
+  text-align: center;
+}
+
+.navcolor {
+  background-color: #3590ae;
+}
+
+.navtext {
+  color: black;
+
+  font-size: 120%;
+}
+
+nav {
+  border: 0.5px solid blue;
+}
+
+.form_center {
+  width: 80%;
+}
+
+.divider {
+  width: 5px;
+  height: auto;
+  display: inline-block;
+}
